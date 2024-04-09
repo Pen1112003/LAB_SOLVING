@@ -5,17 +5,17 @@ severity=WARNING
 ```
  
 ```bash
-export REPO_NAME=
+export REPO_NAME=hello-repo
 
-export CLUSTER_NAME=
+export CLUSTER_NAME=hello-world-xlty
 
-export ZONE=
+export ZONE=us-east1-c
 
-export NAMESPACE=
+export NAMESPACE=gmp-s0lj
 
-export INTERVAL=
+export INTERVAL=30s
 
-export SERVICE_NAME=
+export SERVICE_NAME=helloweb-service-ublo
 ```
 ***🔴🔴THIS COMMAND IS GOING TO TAKE 10 TO 15 MINUTES 👇👇👇***
 ```bash
